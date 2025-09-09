@@ -1,0 +1,7 @@
+{
+  "name": "Echo Hole - AI Thought Catcher",
+  "description": "A voice-powered note-taking app that uses AI to summarize and tag your thoughts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
